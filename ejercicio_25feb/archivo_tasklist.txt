@@ -1,0 +1,323 @@
+
+Nombre de imagen               PID Nombre de sesi¢n N£m. de ses Uso de memor
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0         8 KB
+System                           4 Services                   0    25.068 KB
+Secure System                   72 Services                   0    71.844 KB
+Registry                       132 Services                   0    62.464 KB
+smss.exe                       556 Services                   0     1.056 KB
+csrss.exe                      932 Services                   0     4.724 KB
+wininit.exe                    320 Services                   0     5.324 KB
+csrss.exe                      344 Console                    1     5.828 KB
+winlogon.exe                   816 Console                    1    35.684 KB
+services.exe                   904 Services                   0    14.324 KB
+LsaIso.exe                     912 Services                   0     2.660 KB
+lsass.exe                      956 Services                   0    74.152 KB
+svchost.exe                   1116 Services                   0    90.380 KB
+WUDFHost.exe                  1140 Services                   0     5.672 KB
+fontdrvhost.exe               1160 Console                    1    15.284 KB
+fontdrvhost.exe               1168 Services                   0     4.392 KB
+WUDFHost.exe                  1260 Services                   0    15.724 KB
+svchost.exe                   1320 Services                   0    46.748 KB
+svchost.exe                   1372 Services                   0    33.876 KB
+dwm.exe                       1452 Console                    1   117.980 KB
+svchost.exe                   1524 Services                   0    43.068 KB
+svchost.exe                   1532 Services                   0    27.596 KB
+svchost.exe                   1540 Services                   0    23.908 KB
+svchost.exe                   1564 Services                   0    22.092 KB
+svchost.exe                   1708 Services                   0    35.612 KB
+svchost.exe                   1716 Services                   0    27.248 KB
+svchost.exe                   1816 Services                   0    33.796 KB
+svchost.exe                   1864 Services                   0    30.888 KB
+svchost.exe                   1892 Services                   0    66.760 KB
+svchost.exe                   1900 Services                   0    27.468 KB
+svchost.exe                   1912 Services                   0    39.248 KB
+svchost.exe                   1920 Services                   0    28.992 KB
+svchost.exe                   2064 Services                   0    43.164 KB
+svchost.exe                   2112 Services                   0    35.288 KB
+svchost.exe                   2172 Services                   0    54.668 KB
+svchost.exe                   2208 Services                   0    36.852 KB
+igfxCUIService.exe            2244 Services                   0     7.848 KB
+svchost.exe                   2324 Services                   0    57.648 KB
+svchost.exe                   2380 Services                   0   266.520 KB
+svchost.exe                   2388 Services                   0    25.924 KB
+svchost.exe                   2460 Services                   0    30.364 KB
+svchost.exe                   2472 Services                   0    31.632 KB
+svchost.exe                   2536 Services                   0    39.068 KB
+svchost.exe                   2572 Services                   0    29.712 KB
+svchost.exe                   2616 Services                   0    66.940 KB
+svchost.exe                   2684 Services                   0    33.100 KB
+Memory Compression            2708 Services                   0 1.227.780 KB
+svchost.exe                   2756 Services                   0    35.440 KB
+svchost.exe                   2928 Services                   0    31.140 KB
+svchost.exe                   2784 Services                   0    42.036 KB
+svchost.exe                   3104 Services                   0    23.872 KB
+svchost.exe                   3160 Services                   0    45.600 KB
+svchost.exe                   3512 Services                   0    24.344 KB
+svchost.exe                   3520 Services                   0    36.972 KB
+svchost.exe                   3528 Services                   0    34.468 KB
+svchost.exe                   3644 Services                   0    37.532 KB
+svchost.exe                   3976 Services                   0    70.312 KB
+svchost.exe                   4044 Services                   0    25.572 KB
+svchost.exe                   4080 Services                   0    41.644 KB
+svchost.exe                   2704 Services                   0    24.972 KB
+svchost.exe                   3208 Services                   0    26.252 KB
+spoolsv.exe                   3380 Services                   0    71.632 KB
+svchost.exe                   3948 Services                   0    39.348 KB
+svchost.exe                   4132 Services                   0    29.164 KB
+svchost.exe                   4152 Services                   0    89.256 KB
+svchost.exe                   4164 Services                   0    42.760 KB
+svchost.exe                   4180 Services                   0    32.020 KB
+svchost.exe                   4188 Services                   0    30.616 KB
+svchost.exe                   4212 Services                   0    41.724 KB
+RtkBtManServ.exe              4280 Services                   0     6.000 KB
+vmware-authd.exe              4304 Services                   0    11.636 KB
+svchost.exe                   4312 Services                   0    60.432 KB
+svchost.exe                   4320 Services                   0    22.320 KB
+svchost.exe                   4328 Services                   0    26.444 KB
+svchost.exe                   4336 Services                   0    41.876 KB
+vmnetdhcp.exe                 4512 Services                   0     4.844 KB
+svchost.exe                   4524 Services                   0    23.636 KB
+IntelCpHDCPSvc.exe            4576 Services                   0     6.660 KB
+svchost.exe                   4592 Services                   0    39.440 KB
+HotKeyServiceUWP.exe          4600 Services                   0    16.004 KB
+macmnsvc.exe                  4624 Services                   0    11.568 KB
+mtxagent.exe                  4636 Services                   0    34.136 KB
+esif_uf.exe                   4648 Services                   0     5.188 KB
+EPWD.exe                      4656 Services                   0    11.044 KB
+CxUtilSvc.exe                 4684 Services                   0     8.088 KB
+masvc.exe                     4704 Services                   0    32.416 KB
+vmnat.exe                     4716 Services                   0     5.924 KB
+mfemms.exe                    4724 Services                   0    10.104 KB
+armsvc.exe                    4756 Services                   0     5.604 KB
+vmware-usbarbitrator64.ex     4764 Services                   0    11.344 KB
+fcags.exe                     4772 Services                   0    25.896 KB
+ijplmsvc.exe                  4812 Services                   0     6.520 KB
+bipMasterService.exe          4876 Services                   0     3.716 KB
+svchost.exe                   4892 Services                   0    33.620 KB
+TracSrvWrapper.exe            4940 Services                   0    24.632 KB
+dasHost.exe                   5032 Services                   0    17.208 KB
+OfficeClickToRun.exe          5040 Services                   0    38.556 KB
+QosServM.exe                  3744 Services                   0     7.356 KB
+svchost.exe                   5252 Services                   0    31.928 KB
+svchost.exe                   5380 Services                   0    40.800 KB
+mfevtps.exe                   5404 Services                   0    15.652 KB
+IntelCpHeciSvc.exe            5512 Services                   0     6.228 KB
+svchost.exe                   5028 Services                   0    84.712 KB
+mfeesp.exe                     720 Services                   0    37.480 KB
+mfehcs.exe                    5964 Services                   0     7.216 KB
+mfewc.exe                     6228 Services                   0    25.952 KB
+LanWlanWwanSwitchingServi     6660 Services                   0    13.708 KB
+amqsvc.exe                    6792 Services                   0     6.336 KB
+mfeensppl.exe                 7040 Services                   0     8.876 KB
+dasHost.exe                   2596 Services                   0     3.992 KB
+hpqwmiex.exe                  3400 Services                   0    12.800 KB
+amqpsrvn.exe                  5980 Services                   0     5.152 KB
+svchost.exe                   7328 Services                   0    34.584 KB
+svchost.exe                   7444 Services                   0    34.164 KB
+fcagswd.exe                   3120 Services                   0    13.824 KB
+WmiPrvSE.exe                  3452 Services                   0    30.876 KB
+WmiPrvSE.exe                   824 Services                   0    13.864 KB
+dllhost.exe                   4492 Services                   0     9.756 KB
+macompatsvc.exe               6836 Services                   0    16.788 KB
+mfemactl.exe                  5632 Services                   0     9.584 KB
+svchost.exe                   4376 Services                   0    30.448 KB
+mtxopswatproxy.exe            9536 Services                   0    50.996 KB
+unsecapp.exe                 10672 Services                   0    12.128 KB
+mfetp.exe                     8732 Services                   0    44.336 KB
+svchost.exe                   2548 Services                   0    69.780 KB
+mfeatp.exe                    5824 Services                   0        32 KB
+svchost.exe                   2924 Services                   0    41.964 KB
+mfeatp.exe                    7264 Services                   0   100.204 KB
+SgrmBroker.exe                9116 Services                   0     8.328 KB
+svchost.exe                   5652 Services                   0    45.148 KB
+wa_3rd_party_host_32.exe      2500 Services                   0     7.428 KB
+conhost.exe                   6200 Services                   0     4.480 KB
+HPHotkeyNotification.exe     10620 Console                    1    18.712 KB
+mfewch.exe                    4860 Console                    1     4.988 KB
+svchost.exe                   2544 Console                    1    81.432 KB
+sihost.exe                   10424 Console                    1    41.172 KB
+svchost.exe                   5364 Console                    1   134.004 KB
+SynaMonApp.exe                2936 Services                   0     3.176 KB
+svchost.exe                   6476 Services                   0    67.828 KB
+fcag.exe                      7528 Console                    1    36.036 KB
+unsecapp.exe                  7288 Console                    1     8.544 KB
+conhost.exe                   6364 Console                    1     8.028 KB
+uhssvc.exe                   10532 Services                   0     5.892 KB
+taskhostw.exe                 7208 Console                    1    25.092 KB
+PresentationFontCache.exe    11096 Services                   0    18.652 KB
+MicTray64.exe                 4088 Console                    1     1.968 KB
+svchost.exe                  10556 Services                   0    69.152 KB
+svchost.exe                   8700 Services                   0    28.736 KB
+explorer.exe                 11296 Console                    1   564.812 KB
+svchost.exe                  11352 Services                   0    42.504 KB
+svchost.exe                  11544 Console                    1    87.244 KB
+igfxEM.exe                    6916 Console                    1    28.624 KB
+TrGUI.exe                     1908 Console                    1    31.164 KB
+StartMenuExperienceHost.e     8188 Console                    1    71.460 KB
+RuntimeBroker.exe             5992 Console                    1    26.724 KB
+SearchIndexer.exe            12300 Services                   0    76.600 KB
+CxAudioSvc.exe               12808 Services                   0    26.028 KB
+RuntimeBroker.exe            13116 Console                    1    47.056 KB
+ShellExperienceHost.exe      12832 Console                    1   103.512 KB
+RuntimeBroker.exe            13596 Console                    1    34.228 KB
+dllhost.exe                  14224 Console                    1    16.500 KB
+SecurityHealthSystray.exe    13096 Console                    1     9.712 KB
+SecurityHealthService.exe    13644 Services                   0    17.132 KB
+OneDrive.exe                 13784 Console                    1   113.052 KB
+ApplicationFrameHost.exe     11664 Console                    1    32.792 KB
+Todo.exe                      4988 Console                    1    95.476 KB
+SettingSyncHost.exe          12524 Console                    1     4.336 KB
+RuntimeBroker.exe            14148 Console                    1    32.044 KB
+SmartAudio3.exe              14164 Console                    1    63.616 KB
+Flow.exe                      1640 Console                    1    77.884 KB
+svchost.exe                   6004 Services                   0    59.208 KB
+svchost.exe                   6844 Console                    1    64.968 KB
+PointDesk.exe                13264 Console                    1    29.332 KB
+UpdaterUI.exe                12028 Console                    1    14.856 KB
+clipx.exe                    13032 Console                    1     2.564 KB
+mctray.exe                   11812 Console                    1     5.084 KB
+svchost.exe                  11856 Services                   0    11.452 KB
+MoUsoCoreWorker.exe          11504 Services                   0    19.948 KB
+svchost.exe                  11508 Console                    1    38.048 KB
+SystemSettingsBroker.exe     14776 Console                    1    31.372 KB
+OneDrive.exe                  3856 Console                    1    58.060 KB
+OneDrive.exe                 13616 Console                    1    96.936 KB
+TextInputHost.exe            13308 Console                    1    45.188 KB
+svchost.exe                  12440 Services                   0    43.960 KB
+FileCoAuth.exe               13280 Console                    1    26.428 KB
+firefox.exe                  13936 Console                    1   435.596 KB
+firefox.exe                   9076 Console                    1   310.936 KB
+firefox.exe                  14732 Console                    1    91.256 KB
+firefox.exe                  17604 Console                    1   127.404 KB
+UserOOBEBroker.exe           14000 Console                    1     8.732 KB
+SystemSettings.exe           13908 Console                    1     2.024 KB
+svchost.exe                  11556 Services                   0    53.400 KB
+SearchApp.exe                16288 Console                    1   317.700 KB
+RuntimeBroker.exe            13588 Console                    1    29.384 KB
+svchost.exe                  12888 Services                   0    32.900 KB
+firefox.exe                  20924 Console                    1    25.608 KB
+svchost.exe                  16668 Services                   0    39.872 KB
+Teams.exe                    14024 Console                    1   155.804 KB
+Teams.exe                    17028 Console                    1   129.780 KB
+Teams.exe                     8068 Console                    1    45.748 KB
+Teams.exe                     5600 Console                    1    61.804 KB
+Teams.exe                    20856 Console                    1    54.808 KB
+Teams.exe                     1764 Console                    1   453.428 KB
+Teams.exe                    21128 Console                    1   118.116 KB
+Teams.exe                     1600 Console                    1   158.440 KB
+svchost.exe                  20900 Console                    1    43.920 KB
+svchost.exe                  20300 Services                   0    39.360 KB
+dllhost.exe                  19568 Console                    1    17.988 KB
+SpringToolSuite4.exe         18932 Console                    1   569.836 KB
+javaw.exe                    20404 Console                    1    62.824 KB
+svchost.exe                    612 Services                   0    42.744 KB
+svchost.exe                   7620 Services                   0    37.468 KB
+mcshield.exe                 19488 Services                   0   206.132 KB
+svchost.exe                   1128 Services                   0    19.040 KB
+csrss.exe                    11892                            2     6.064 KB
+winlogon.exe                 26136                            2    10.796 KB
+fontdrvhost.exe              15464                            2     5.376 KB
+dwm.exe                      24856                            2    46.084 KB
+HPHotkeyNotification.exe      5140                            2    18.472 KB
+sihost.exe                   25376                            2    24.872 KB
+svchost.exe                  22492                            2    18.296 KB
+svchost.exe                  25680                            2    28.440 KB
+taskhostw.exe                24212                            2    15.572 KB
+igfxEM.exe                   16396                            2    20.404 KB
+unsecapp.exe                 27116                            2     7.812 KB
+explorer.exe                 27388                            2   109.748 KB
+svchost.exe                  27096                            2    17.732 KB
+fcag.exe                     27416                            2    38.384 KB
+StartMenuExperienceHost.e    27208                            2    72.184 KB
+RuntimeBroker.exe            27776                            2    26.536 KB
+SearchApp.exe                27896                            2    95.540 KB
+RuntimeBroker.exe            28084                            2    35.804 KB
+SettingSyncHost.exe          28656                            2     6.068 KB
+TextInputHost.exe            19712                            2    44.036 KB
+dllhost.exe                  28724                            2    11.420 KB
+RuntimeBroker.exe            29372                            2    15.800 KB
+SecurityHealthSystray.exe    29380                            2     8.780 KB
+PointDesk.exe                29600                            2    28.956 KB
+UpdaterUI.exe                23996                            2    11.104 KB
+clipx.exe                    17332                            2       456 KB
+mctray.exe                   28916                            2     4.788 KB
+svchost.exe                  23500                            2    12.640 KB
+ssh-agent.exe                23396 Services                   0     5.416 KB
+LogonUI.exe                  24164                            2    33.752 KB
+mtxproxy.exe                 23244 Console                    1    11.228 KB
+ctfmon.exe                   27080 Console                    1    28.412 KB
+UserOOBEBroker.exe             952                            2     9.216 KB
+ShellExperienceHost.exe      25412                            2    50.800 KB
+RuntimeBroker.exe            21260                            2    17.592 KB
+firefox.exe                  20492 Console                    1   159.852 KB
+firefox.exe                  27680 Console                    1   139.832 KB
+firefox.exe                  11988 Console                    1   461.808 KB
+firefox.exe                  20048 Console                    1   166.156 KB
+firefox.exe                   8632 Console                    1   109.272 KB
+LockApp.exe                  26092 Console                    1    58.424 KB
+RuntimeBroker.exe              284 Console                    1    34.252 KB
+Calculator.exe                8416 Console                    1     2.664 KB
+RuntimeBroker.exe            21512 Console                    1     7.440 KB
+svchost.exe                  19784 Services                   0     7.176 KB
+firefox.exe                  13528 Console                    1   101.180 KB
+YourPhone.exe                 7860 Console                    1    22.680 KB
+RuntimeBroker.exe             8820 Console                    1     9.392 KB
+YourPhone.exe                24452                            2    14.576 KB
+RuntimeBroker.exe            21924                            2     9.948 KB
+Time.exe                     19416 Console                    1     2.668 KB
+RuntimeBroker.exe            25844 Console                    1    21.716 KB
+OUTLOOK.EXE                  18416 Console                    1   325.348 KB
+SearchApp.exe                24544 Console                    1    83.172 KB
+msedge.exe                   17440 Console                    1   251.516 KB
+msedge.exe                      32 Console                    1     7.232 KB
+msedge.exe                   22912 Console                    1   250.648 KB
+msedge.exe                   21500 Console                    1    52.520 KB
+msedge.exe                    4272 Console                    1    18.272 KB
+iexplore.exe                 27368 Console                    1    31.284 KB
+iexplore.exe                  6612 Console                    1    19.616 KB
+msedge.exe                    3580 Console                    1    21.832 KB
+Microsoft.Photos.exe         25400                            2    35.512 KB
+RuntimeBroker.exe            21284                            2    19.232 KB
+Microsoft.Photos.exe         24420 Console                    1    45.484 KB
+RuntimeBroker.exe              272 Console                    1    31.312 KB
+audiodg.exe                  29288 Services                   0    27.796 KB
+firefox.exe                  19072 Console                    1   161.228 KB
+msedge.exe                   13236 Console                    1   103.928 KB
+msedge.exe                   11648 Console                    1   231.248 KB
+msedge.exe                   19476 Console                    1   349.464 KB
+msedge.exe                    9036 Console                    1    93.104 KB
+msedge.exe                   22340 Console                    1    73.948 KB
+EXCEL.EXE                    29308 Console                    1   210.328 KB
+splwow64.exe                 29172 Console                    1     9.780 KB
+OneDrive.exe                 17468                            2     4.604 KB
+firefox.exe                  26204 Console                    1   105.924 KB
+svchost.exe                  23640 Services                   0     7.880 KB
+msedge.exe                   23944 Console                    1   121.744 KB
+msedge.exe                   26388 Console                    1    52.584 KB
+msedge.exe                   23948 Console                    1    77.980 KB
+msedge.exe                   11936 Console                    1   110.680 KB
+msedge.exe                   16376 Console                    1    41.368 KB
+AdobeARM.exe                 24616                            2     4.212 KB
+svchost.exe                   7612 Services                   0    21.244 KB
+msedge.exe                   26232 Console                    1    27.116 KB
+msedge.exe                   13340 Console                    1    37.460 KB
+AcroRd32.exe                 25168 Console                    1    55.444 KB
+AcroRd32.exe                 28452 Console                    1    80.248 KB
+RdrCEF.exe                   20036 Console                    1    42.100 KB
+RdrCEF.exe                   23900 Console                    1    90.400 KB
+RdrCEF.exe                    8268 Console                    1    77.064 KB
+msedge.exe                   26208 Console                    1    87.744 KB
+msedge.exe                   20268 Console                    1    50.816 KB
+cmd.exe                       5780 Console                    1     7.564 KB
+conhost.exe                  28328 Console                    1    23.692 KB
+msedge.exe                   20648 Console                    1    88.784 KB
+msedge.exe                   28024 Console                    1    24.544 KB
+svchost.exe                  24708 Services                   0     8.704 KB
+smartscreen.exe              25892 Console                    1     8.768 KB
+svchost.exe                  20140 Services                   0    13.264 KB
+svchost.exe                  27552 Services                   0     8.056 KB
+Teams.exe                    22820 Console                    1    78.528 KB
+TrustedInstaller.exe         23504 Services                   0     8.152 KB
+TiWorker.exe                 20500 Services                   0    30.260 KB
+tasklist.exe                 27968 Console                    1    16.192 KB
