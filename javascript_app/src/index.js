@@ -1,36 +1,66 @@
-console.log('+-------------------Bucles------------------------+');
+console.log('+-------------------Objetos------------------------+');
 
-let limiteBucle = 10;
-let contador = 0;
-
-console.log('+ Bucle: Do While');
-do {
-    contador ++;
-    console.log('Contador: '+contador);
-} while (contador < limiteBucle);
-
-console.log('+ Bucle: Do While');
-let letCondicion = true;
-
-while (letCondicion) {
-    let letRandom = Math.random() * 10;
-    console.log('Numero Randomico: '+letRandom);
-    if (letRandom > 5) {
-        letCondicion = false;
-        console.log('Salida del Bucle: '+letCondicion);
+const persona = {
+    nombre: 'Harold Adrian',
+    apellidoPaterno: 'Bolaños', 
+    apellidoMaterno: 'Rodriguez', 
+    fechaNacimiento: '1981-11-11',
+    direccion: {
+        viaPrincipal: 'Calle', 
+        numeroVia: '43',
+        nombreVia: 'San Pedro', 
+        placa: '70a-66', 
+        barrio: 'Villa Magna', 
+        locacion: 'Sur Oriente',
+        comuna: '16'
     }
-}
+};
 
-// reto: 1. implementar un contador y 2. sumar los numeros randomicos en un acumulador
+console.table(persona);
+
+let otraPersona01 = {...persona}
+
+otraPersona01.nombre = 'ADRIAN'
+otraPersona01.apellidoMaterno = 'Salazar'
+otraPersona01.fechaNacimiento = '2009-02-22'
+
+console.log('+-------------------------------------------+');
+console.table(persona);
+console.table(otraPersona01);
+
+console.log('+--------------------Objetos Dinamicos-----------------------+');
+
+const personaDinamica = {
+    nombre: 'Harold Adrian',
+    apellidoPaterno: 'Bolaños', 
+    apellidoMaterno: 'Rodriguez', 
+    fechaNacimiento: '1981-11-11',
+    direccion: {
+        viaPrincipal: 'Calle', 
+        numeroVia: '43',
+        nombreVia: 'San Pedro', 
+        placa: '70a-66', 
+        barrio: 'Villa Magna', 
+        locacion: 'Sur Oriente',
+        comuna: '16'
+    },
+    fxNombreCompleto(){
+        console.log(`Mi nombre completo es ${this.nombre} ${this.apellidoPaterno} ${this.apellidoMaterno}`);
+    }, 
+    fxTabularAtributos(){
+        console.table(this);
+    }
+};
+
+let obj = Object.create(personaDinamica);
+//let obj = {...personaDinamica};
+
+obj.nombre = 'VIVIANA';
+obj.apellidoPaterno = 'LOPEZ';
+obj.fxNombreCompleto();
+obj.fxTabularAtributos();
 
 
-console.log('+ Bucle: For');
+console.log(obj);
 
-let limiteFor = 20;
-
-console.log('Limite = '+limiteFor);
-for (let index = 0; index < limiteFor; index++) {
-    let randomFor =  Number.parseInt((Math.random() * 10),10);
-    console.log('Indice for: '+index);
-    console.log('Random    : '+randomFor);    
-}
+console.log('+--------------- FIN PROGRAMA ---------------+');
