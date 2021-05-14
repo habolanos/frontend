@@ -5,58 +5,51 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Composicion</title>
+    <title>Composicion de Elementos</title>
 </head>
 <style>
     body {
         margin: 0px;
     }
-
-    header {
+    header{
         width: 100%;
         height: 80px;
-        background-color: #4361ee;
-        top: 0%;
+        background-color: #43aa8b;
     }
-
     header img {
-        width: 50px;
-        padding: 15px 15px;
+        width: 60px;
+        padding: 10px;
     }
-
-    nav {
-        height: 30px;
-        background-color: #fca311;
+    nav{
+        height: 25px;
+        background-color: #f3722c;
     }
-
-    .flex-container {
-        display: flex;
-        flex-wrap: wrap;
-    }
-
-    .flex-container>div {
-        background-color: #f1f1f1;
-        width: 100px;
-        margin: 10px;
-        text-align: center;
-        line-height: 75px;
-        font-size: 30px;
-    }
-
-    footer {
-        width: 100%;
-        height: 20px;
-        background-color: #26ce34;
+    footer{
         position: fixed;
         bottom: 0%;
+        background-color: #f9844a;
+        width: 100%;
+        height: 20px;
+    }
+    .flex-container {
+        display: flex;
+        flex-wrap: nowrap;
+        background-color: #9d4edd;
+    }
+    .flex-container > div {
+       background-color: #240046; 
+       width: 100px;
+       margin: 10px;
+       text-align: center;
+       line-height: 75px;
+       font-size: 40px;
     }
 </style>
-
 <body>
     <header>
-        <img src="./imagenes/rocket.svg" alt="Logo aplicacion"></img>
+        <img src="./vectores/rocket.svg" alt="Cohete vectorial"></img>
     </header>
-    <nav></nav>
+    <nav>Franja de Navegacion o Menus o noticias</nav>
     <div class="flex-container">
         <div>1</div>
         <div>2</div>
@@ -71,7 +64,6 @@
         <div>11</div>
         <div>12</div>
     </div>
-    <footer>https://www.w3schools.com/css/css3_flexbox_container.asp</footer>
+    <footer>Pie de Pagina Web</footer>
 </body>
-
 </html>
