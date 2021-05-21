@@ -1,4 +1,7 @@
 import React from 'react'
+import PropType from 'prop-types'
+
+console.log('Uso de props')
 
 const persona = {
     nombre: 'Harold Adrian', 
@@ -8,9 +11,8 @@ const persona = {
 
 // Retorno de Fragmentos HTML
 //const ComponenteApp = ( props ) => {
-const ComponenteApp = ( {valor_03} ) => {
-    console.log('Componente == ComponenteApp');
-    //console.log(props);
+const ComponenteApp = ( { parm_01, parm_02 } ) => {
+
     return (
         <>
         <h1>Saludo desde React!!!</h1>
@@ -20,11 +22,21 @@ const ComponenteApp = ( {valor_03} ) => {
         <p>{persona.nombre} {persona.apellidos}</p>
         <p>{JSON.stringify(persona, null, null)}</p>
         <h5>Paso de argumentos:</h5>
-        {/* <p>{props.valor_01}</p>
-        <p>{props.valor_02}</p> */}
-        <p>{valor_03}</p>
+        <p>Parametro 01: {parm_01}</p>
+        <p>Parametro 02: {parm_02}</p>
         </>
         );
+}
+
+//Definicion de comportamiento de props
+ComponenteApp.propType = {
+    parm_01: PropType.string, 
+    parm_02: PropType.number, 
+}
+
+ComponenteApp.defaultProps = {
+    parm_01: 'PARAMETRO VACIO',
+    parm_02: 99999
 }
 
 export default ComponenteApp;
